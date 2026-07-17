@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🚀 Final-year **B.Tech CSE (AI & ML)** student passionate about building **Agentic AI systems**, **RAG applications**, and **Generative AI solutions**.
+🚀  **B.Tech CSE (AI & ML)** graduate building **Agentic AI systems**, **RAG applications**, and **Generative AI solutions**.
 
 🤖 Currently building intelligent AI products using **LLMs, LangGraph, FastAPI, Next.js, React, TypeScript, Vector Databases, and MLOps**.
 
