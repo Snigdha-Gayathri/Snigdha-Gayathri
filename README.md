@@ -1,5 +1,21 @@
-# 💫 About Me:
-I'm currently working on Artificial Intelligence and Machine Learning 🤖<br>I'm looking to collaborate on more Machine Learning projects 👀<br>I'm looking for help with DS Algo😏🤝<br>I'm currently learning React JS🤜<br>Ask me about why I'm super cool...It's all the caffeine in me..🐧☕<br>Fun fact: Debugging is like being a detective in a crime movie where you are also the murderer🤣🤣
+# 💫 About Me
+
+🚀 Final-year **B.Tech CSE (AI & ML)** student passionate about building **Agentic AI systems**, **RAG applications**, and **Generative AI solutions**.
+
+🤖 Currently building intelligent AI products using **LLMs, LangGraph, FastAPI, Next.js, React, TypeScript, Vector Databases, and MLOps**.
+
+🌱 Exploring **AI Agents, Knowledge Graphs, Multi-Agent Systems, AI Engineering, and Scalable ML Infrastructure**.
+
+🤝 Open to collaborating on **Generative AI**, **Machine Learning**, **Open Source**, and **AI-powered SaaS** projects.
+
+💡 Interested in solving real-world problems through AI—from intelligent retail systems to enterprise knowledge assistants and autonomous workflows.
+
+📚 Always learning, always shipping, and always improving one project at a time.
+
+⚡ **Fun Fact:** I spend more time talking to AI models than to humans—and somehow the AI still understands me better. ☕
+
+
+See what I do here: https://snigdha-gayathri-portfolio.netlify.app/
 
 
 ## 🌐 Socials:
